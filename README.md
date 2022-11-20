@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Discord Presence](https://lanyard.cnrad.dev/api/273427750654705664)](https://discord.com/users/273427750654705664)
 
 <!--
 **divinityMaker/divinityMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
