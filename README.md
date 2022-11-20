@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 I'm Gabriel, also known as Maker on the internet.
+
 Currently i'm studying Javascript frameworks (![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white), ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)) with ![Ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white).
 
 Also, im looking for a job 😅.
