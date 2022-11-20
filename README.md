@@ -8,6 +8,13 @@ Also, im looking for a job 😅.
 - [Linkedin](https://www.linkedin.com/in/gabriel-fukuoka-538017226/)
 - [Discord](https://discord.com/users/273427750654705664)
 
-
+---
 <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinityMaker&layout=compact&langs_count=7&theme=dark">
-<img align="center" height="150" src="https://lanyard.cnrad.dev/api/273427750654705664" alt="Discord Status">
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=divinityMaker&theme=dark&show_icons=true&count_private=true">
+
+
+---
+### Currently doing
+<img height="150" src="https://lanyard.cnrad.dev/api/273427750654705664" alt="Discord Status">
+
+
