@@ -26,10 +26,11 @@ Also, im looking for a job 😅.
 [![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com)
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
+<!---
 ---
 <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divinityMaker&layout=compact&langs_count=7&theme=dark">
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=divinityMaker&theme=dark&show_icons=true&count_private=true">
-
+-->
 
 ---
 ### Currently doing
